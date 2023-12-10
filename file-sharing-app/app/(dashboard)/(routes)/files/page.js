@@ -7,8 +7,7 @@ const Files = () => {
     <div>
       Files
       <UserButton afterSignOutUrl="/"/>
-{/* //Files here */}
-{/* //samhere */}
+
     </div>
   )
 }
